@@ -1,2 +1,7 @@
-# PHPStudy_Backdoor
-PHPStudy后门交互式利用脚本
+# Usage:
+
+python3 PHPStudy_Backdoor.py http://www.lovei.org/ 
+
+# Screenshot:
+
+![](./1.png)
